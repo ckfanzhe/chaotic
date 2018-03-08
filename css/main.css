@@ -189,8 +189,8 @@ body:before {
     line-height: 40px;
 }
 
-@media (min-width: 360px) {
+@media (min-width: 720px) {
     .content {
-        width: 360px;
+        width: 720px;
     }
 }
